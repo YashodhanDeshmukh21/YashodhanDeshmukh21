@@ -7,6 +7,7 @@
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;CS+Engineer;Quantum+Computing;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
 </p>
+
 ---
 
 ### 
@@ -63,9 +64,7 @@
 	<br><br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashodhanDeshmukh21&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 </p>
-<p align="center">
-	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=YashodhanDeshmukh21&theme=react-dark" />
-</p>
+
 
 ---
 
