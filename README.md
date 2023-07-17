@@ -73,15 +73,11 @@
 
 <h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
 <p align="center">
-	
 	<a href="https://www.hackerrank.com/yashodhandeshmu1?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-
 	<a href="https://leetcode.com/yashodhandeshmukh21/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-
 	<a href="https://www.linkedin.com/in/yashodhandeshmukh/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:yashodhandeshmukh21@gmail.com?subject=Hello%20Parv" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.instagram.com/yashodhan_deshmukh_100/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
 </p>
 
 
