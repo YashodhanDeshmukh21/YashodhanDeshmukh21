@@ -86,3 +86,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/yashodhandeshmukh/
+[hackerrank]: https://www.hackerrank.com/yashodhandeshmu1?hr_r=1
+[leetcode]: https://leetcode.com/yashodhandeshmukh21/
