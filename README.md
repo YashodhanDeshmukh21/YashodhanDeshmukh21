@@ -6,16 +6,16 @@
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;CS+Engineer;Quantum+Computing;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
-	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/parvbhargava" />
+	&nbsp;
 </p>
 
 ---
 
 ### 
 
-- 🔭 Currently in my final Year of B.Tech in Computer Science.
+- 🔭 Currently in my final Year of B.E in Artificial Intelligence and Data Science.
 - 🌱 Expanding my shell to learn more each day.
-- 👯 Looking forward to become a Machine Learning Developer integrating it with Quantum Computing.
+- 👯 Looking forward to become a Data Scientist integrating it with Machine Learning.
 - 🥅 A keen worker and loves perfection
 - ⚡ "We don't want to tell our dreams. We want to show them!".
 
