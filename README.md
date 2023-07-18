@@ -64,7 +64,7 @@
 	<br><br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashodhanDeshmukh21&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 	<br><br>
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"/>	
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{YashodhanDeshmukh21}1212%2Fhit-counter"/>	
 </p>
 
 
